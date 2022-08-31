@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -l
+=======
+3-listfiles
+>>>>>>> 563c22c7362c2ee365b10155884e4b512e4f05ea
